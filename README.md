@@ -1,6 +1,7 @@
 # Team 6 content-moderation
 
 [March 11 Progress Presentation Slides](March%2011%20Progress%20Pres.pdf)
+[Final Report](CSE%203000%20Report%20-%20Team%206.pdf)
 
 ## Run the Model
 
